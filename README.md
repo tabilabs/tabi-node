@@ -5,6 +5,6 @@ Dear Captain Node Owner, it's time to activate your Captain Node and start pre-m
 ### Windows
 Download the latest version of the installation package `Tabi-Client-Windows-{version}-Setup.exe` 
 ### Mac OS
-Download the latest version of the installation package `Tabi-Client-Mac-{version}-Installer.dmg
+Download the latest version of the installation package `Tabi-Client-Mac-{version}-Installer.dmg`
 
 ` 
